@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.4*%
+%TF.CreationDate,2025-10-04T22:45:10-03:00*%
+%TF.ProjectId,encoder_magnetico,656e636f-6465-4725-9f6d-61676e657469,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.4) date 2025-10-04 22:45:10*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,3.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H4*%
+X57266656Y-56119290D03*
+%TD*%
+%TO.C,H3*%
+X44846914Y-56119290D03*
+%TD*%
+%TO.C,H1*%
+X55153086Y-43880710D03*
+%TD*%
+%TO.C,H2*%
+X42733344Y-43880710D03*
+%TD*%
+M02*
